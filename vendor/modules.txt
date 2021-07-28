@@ -1,0 +1,11 @@
+# github.com/go-logfmt/logfmt v0.5.0
+github.com/go-logfmt/logfmt
+# github.com/godror/godror v0.25.3
+## explicit
+github.com/godror/godror
+github.com/godror/godror/dsn
+github.com/godror/godror/odpi/embed
+github.com/godror/godror/odpi/include
+github.com/godror/godror/odpi/src
+# gopkg.in/goracle.v2 v2.24.1
+## explicit
